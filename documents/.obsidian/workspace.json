@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Document.md",
+                "file": "testing-and-trialing/Trialing Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "83a27d35d91afd1d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Document.md",
+                "file": "testing-and-trialing/Trialing Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Document.md",
+                "file": "testing-and-trialing/Trialing Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Document.md"
+                "file": "testing-and-trialing/Trialing Example.md"
               }
             }
           },
@@ -166,12 +165,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c861859dd6adf83c",
+  "active": "9974697dfede1243",
   "lastOpenFiles": [
+    "testing-and-trialing/testing.md",
+    "Pasted image 20230403141627.png",
+    "Game Design Document.md",
     "Final Hand in statement .md",
     "Final Review.md",
     "Kanban.md",
-    "Game Design Document.md",
     "testing-and-trialing/Trialing Example.md",
     "sprint-docs/Sprint Document template.md",
     "readme.md.md",

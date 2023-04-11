@@ -2,19 +2,11 @@
 # Getting user input
 
 Date: 1/1/2022
-
-```python
-if arcade.check_for_collisions_with_list(player, enemies):
-	player.health -= 1
-	if player.health <= 0:
-		player.kill()
-		Game.restart()
-```
-
-| Test Data                    | Expected                        | Observed                       |
-| ---------------------------- | ------------------------------- | ------------------------------ |
-| Player not touching enemy    | nothing                         | nothing                        |
-| Player touching health = 3 | health set to 2, heart disapear | health became 2, heart remained |
-| Player touching health = 1   | Game restarts                   | As expected                               |
+![[Pasted image 20230403141627.png]]
+| Test Data                           | Expected                              | Observed                            |
+| ----------------------------------- | ------------------------------------- | ----------------------------------- |
+| Moving backwards and forth          | The ball rolls backwards and forwards | The ball rolled backwards and forth |
+| Moving the character left and right | The ball rolls left and right         | The ball rolled left and right      |
+| Pressing space to jump              | The balls will move vertically        | The ball moves vertically           | 
 
 
