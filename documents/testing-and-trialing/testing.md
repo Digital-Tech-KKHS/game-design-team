@@ -1,7 +1,7 @@
-## Test 1 EXAMPLE:
+## Test 1:
 # Getting user input
 
-Date: 1/1/2022
+Date: 12/04/2023
 ![[Pasted image 20230403141627.png]]
 | Test Data                           | Expected                              | Observed                            |
 | ----------------------------------- | ------------------------------------- | ----------------------------------- |
@@ -10,3 +10,64 @@ Date: 1/1/2022
 | Pressing space to jump              | The balls will move vertically        | The ball moves vertically           | 
 
 
+## Test 2:
+# Checking for collisions with gems
+Date: 27/04/2023
+![[Pasted image 20230505123322.png]]
+| Test Data              | Expected                                                                      | Observed            |
+| ---------------------- | ----------------------------------------------------------------------------- | ------------------- |
+| Colliding with the gem | The gem is collided with by the player and is destroyed (removed from memory) | Exactly as expected |
+| Adding to the score    | The score counter increases after the actor is destroyed                      | Exactly as expected | 
+
+## Test 3:
+# Testing if gem rotates when game is running
+Date: 27/04/23
+![[Pasted image 20230505123552.png]]
+
+| Test Data    | Expected                               | Observed         |
+| ------------ | -------------------------------------- | ---------------- |
+| Gem rotating | The gem rotates in a static y position | Same as expected | 
+
+## Test 4:
+# Revised player input
+Date: 27/04/23
+
+![[Pasted image 20230505125101.png]]
+![[Pasted image 20230505125104.png]]
+![[Pasted image 20230505125112.png]]
+![[Pasted image 20230505125118.png]]
+
+| Test Data                           | Expected                                                       | Observed                                                       |
+| ----------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| Moving backwards and forth          | The player moves backwards and forwards                        | The player moved backwards and forth                           |
+| Moving the character left and right | The player moves left and right                                | The player moved left and right                                |
+| Pressing space to jump              | The player will jump                                           | The player jumps                                               |
+| Moving the mouse around             | The camera will revolve around the player based on mouse input | The camera revolved around the player in the desired direction | 
+
+## Test 5:
+# Adding a score UI
+Date: 01/05/23
+![[Pasted image 20230505125506.png]]
+![[Pasted image 20230505125533.png]]
+
+| Test Data                                                     | Expected                                                                             | Observed         |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- |
+| Score counter in the top middle of the screen                 | The score counter renders the current score in the top, middle of the screen         | Just as expected |
+| Score counter increments with every gem collision with player | The score counter increases in increments of one when a gem is collected             | Just as expected |
+| Score counter limits                                          | When the score counter reaches six, the game closes and unloads the process from RAM | Just as expected | 
+
+
+## Test 6:
+# Testing main menu buttons 
+Date: 04/05/2023
+![[Pasted image 20230505124306.png]]
+![[Pasted image 20230505124455.png]]
+![[Pasted image 20230505124546.png]]
+
+| Test Data                                                         | Expected                                                                            | Observed                                                |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Pressing play                                                     | Begins the game and loads the first level                                           | Had trouble initially with this but eventually fixed it |
+| Pressing the options button                                       | Opens the options menu and allows the user to see the resolution options            | Same as expected                                        |
+| Pressing the Quit button                                          | Closes the game and removes the process from RAM                                    | Same as expected                                        |
+| Changing the resolution by interacting with the resolution button | Changes the resolution of the viewport and ensuring the game is still full-screened | Same as expected                                        |
+| Pressing play and removing all the widgets                        | Removes the main menu screen                                                        | Same as expected                                        | 
