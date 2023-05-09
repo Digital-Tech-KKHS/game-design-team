@@ -6,24 +6,14 @@ kanban-plugin: basic
 
 ## Backlog❄❄
 
-- [ ] Get a main menu
-- [ ] Texture items
-- [ ] Add a quit button
-- [ ] Add an instruction scroll in the beginning level
-- [ ] Add background image in the main menu
-- [ ] A playable play button
-- [ ] Resolution switching in an options menu
-- [ ] Add a return button in the options menu
-- [ ] Add a win condition
-- [ ] Add gems and collectables
-- [ ] Set the time to night
-- [ ] Add a losing condition
+- [ ] Add a door mechanic
+- [ ] Add a flashlight mechanic
+- [ ] Lower the jump height for development in the final game
 
 
 ## Doing
 
-- [ ] Create the stands and platforms for the gems
-- [ ] Create gem objects
+- [ ] Add an instruction scroll in the beginning level
 
 
 ## Testing \ Trialing
@@ -32,6 +22,19 @@ kanban-plugin: basic
 
 ## Complete 🎈🎉✨
 
+- [ ] Add gems and collectables
+- [ ] Add a win condition
+- [ ] Add a quit button
+- [ ] A playable play button
+- [ ] Get a main menu
+- [ ] Add background image in the main menu
+- [ ] Resolution switching in an options menu
+- [ ] Add a return button in the options menu
+- [ ] Create gem objects
+- [ ] Add a losing condition
+- [ ] Set the time to night
+- [ ] Texture items
+- [ ] Create the stands and platforms for the gems
 
 
 ## Bug list 🦋🐛🦟🐜🦗🐝🐞

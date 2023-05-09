@@ -1,9 +1,10 @@
 # Details
 **Name: Xavier Frater**
 
-**Git Hash: ad95eda4c5b4354305176981672278162a03856a**
+**Git Hash: 38f5ca6ee165d7ab96365bc558480d2c2e37c33b
+			   ad95eda4c5b4354305176981672278162a03856a**
 
-**Sprint Number:**
+**Sprint Number: 1**
 
 **Start Date:13/03/2023**
 
@@ -31,11 +32,15 @@ I had a friend of mine test the game and its mechanics to see if any bugs could 
 Can be found in the "testing" tab of the document.
 
 # Project at the end of the sprint
-## **KANBAN board at the end of the sprint**
+## **KANBAN board at the end of the sprint:**
+![[Pasted image 20230508143458.png]]
 
-## **Screenshot of the game at the end of the sprint**
+
+## **Screenshot of the game at the end of the sprint:**
+![[Pasted image 20230508142829.png]]
 
 ## Link to **Video of the game at the end of the sprint**
 
 
-## **Notes for next time, future improvements**
+## **Notes for next time, future improvements:**
+I would like to finish this MVP project and move onto the real game eventually. A scroll collectable still needs to be added and I would also like to maybe trial opening and closing doors as well as interacting with other.

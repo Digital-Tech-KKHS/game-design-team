@@ -58,7 +58,7 @@ Date: 01/05/23
 
 
 ## Test 6:
-# Testing main menu buttons 
+# Testing the main menu and its buttons 
 Date: 04/05/2023
 ![[Pasted image 20230505124306.png]]
 ![[Pasted image 20230505124455.png]]
