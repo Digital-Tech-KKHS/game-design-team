@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-docs/Sprint Document Two.md",
+                "file": "sprint-docs/Sprint Document One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "412bd00346d3ee84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sprint-docs/Sprint Document One.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint-docs/Sprint Document Two.md",
+                "file": "sprint-docs/Sprint Document One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint-docs/Sprint Document Two.md",
+                "file": "sprint-docs/Sprint Document One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint-docs/Sprint Document Two.md"
+                "file": "sprint-docs/Sprint Document One.md"
               }
             }
           },
@@ -183,15 +196,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9974697dfede1243",
+  "active": "412bd00346d3ee84",
   "lastOpenFiles": [
-    "Pasted image 20230510100501.png",
-    "Kanban.md",
     "sprint-docs/Sprint Document Two.md",
-    "Pasted image 20230509083643.png",
+    "testing-and-trialing/Trialing Example.md",
     "testing-and-trialing/testing.md",
     "sprint-docs/Sprint Document One.md",
     "sprint-docs/Sprint Document Template.md",
+    "Pasted image 20230510100501.png",
+    "Kanban.md",
+    "Pasted image 20230509083643.png",
     "Pasted image 20230508145412.png",
     "Pasted image 20230508143458.png",
     "Pasted image 20230508142829.png",
@@ -201,11 +215,9 @@
     "Game Design Document.md",
     "Final Review.md",
     "Final Hand in statement .md",
-    "testing-and-trialing/Trialing Example.md",
     "Pasted image 20230505125533.png",
     "Pasted image 20230505125506.png",
     "Pasted image 20230505125118.png",
-    "Pasted image 20230505125112.png",
     "task/year-13/Teacher Info.md",
     "task/year-13/Year 13 Game Design Task.md",
     "readme.md",

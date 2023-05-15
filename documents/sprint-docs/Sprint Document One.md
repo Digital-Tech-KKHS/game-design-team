@@ -20,16 +20,22 @@
 ![[Pasted image 20230505130943.png]]
 # Sprint Summary
 ## **Sprint Reflection and summary:**
+(make this specific)
 During this time, I don't believe I did a lot of work and felt relatively unmotivated to finish this project due to the massive climb I had ahead of me when it came to designing the game. Mechanics such as collisions with the object I'm standing on were easily taken care of thankfully and gave me the motivation I needed to continue the project.
 
 ## **Major Changes and Achievements Described:**
-A scene with objects that could be stood on and collided with were the major achievements of this sprint and overall, creating a playable character was also a major achievement. 
+- Created some gems and textured them
+- Added a losing condition
+- Changed the time to night
+- Created the stands for the player to interact with
+- Can interact with the gems
 
 ## **Brief Description of your testing**
+(bullet point)
 I had a friend of mine test the game and its mechanics to see if any bugs could be exploited, and thanks to the simplicity of the game, no bugs could be found in the current state of the game. An issue that my friend had with the game was that there currently wasn't a win condition, and if you fell off the platforms, the game had to be restarted as there was no lose condition. A mechanic I wish to add at the end of the sprint.
 
 ## **Link to testing results/tables**
-Can be found in the "testing" tab of the document.
+[[testing]]
 
 # Project at the end of the sprint
 ## **KANBAN board at the end of the sprint:**

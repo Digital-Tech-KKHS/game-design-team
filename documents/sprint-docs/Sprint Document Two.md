@@ -20,19 +20,26 @@
 # Sprint Summary
 
 ## **Sprint Reflection and summary:**
-For this sprint, I felt like I needed to make advances much further than ones that I had made. During this time, I spent a lot of time and resources figuring out how to incorporate the main menu screen and getting the play button to work. It proved to be a challenge as the play button just wouldn't load the level. I attempted to make the button work and eventually did as it required a work around that was not discoverable online and was only discovered through trial and error.
+During this time, I mainly struggled with making the play button interactable. This was due to a programing error I created. I managed to fix this issue by creating a new level object with all the objects of the level, inside that level object. Once that level object was created, I created an entire separate new level with all the assets of the main menu inside that. I made sure that my game was loading the main menu screen first, then once the play button was pressed, the playable level was loading and removing the main menu level from memory. If I hadn't had done this, the main menu level wouldn't disappear and the game would start rendering beneath the main menu.
 
 ## **Briefly describe other team members contributions:**
 N/A
 
 ## **Major Changes and Achievements Described:**
-The major achievement for this sprint was definitely getting the main menu screen to display and to work and function correctly. With this main menu, I was able to get an options menu and a play button working as well as these were mechanics that I would like to see in my real game. The resolution switcher will prove to be useful, especially during the end product when I want this game to run on lower end hardware so I can broaden my audience. 
+- Added gems and collectables
+- Added a win condition
+- Added a main menu with interactable buttons
+- Added the main menu backdrop
+- Added the ability to switch resolutions in the main menu
+- Added a losing condition
+- Changed the time from day to night
+- Items were textured
 
 ## **Brief Description of your testing:**
 The main portion of the testing was spent figuring out the main menu and getting the play button to work. I tested it mainly myself as I believe such a simple mechanic doesn't require much testing from someone other than myself. The main menu was also put through its paces and tested as well to ensure that there were no bugs present, and thankfully through my methods of testing, there were no bugs to be seen.
 
 ## **Link to testing results/tables**
-The testing and results table can be found in that part of the document folder.
+[[testing]]
 # Project at the end of the sprint
 
 ## **KANBAN board at the end of the sprint**
@@ -44,4 +51,4 @@ The testing and results table can be found in that part of the document folder.
 ## Link to **Video of the game at the end of the sprint**
 
 ## **Notes for next time, future improvements:**
-I would like to see the game add the scroll feature in my Kanban board as this is an essential mechanic in the end game. I would also like to see the performance improved drastically. This can be improved by the end of the game when I go to cook it. I can compile the game down to C++ later on and run it that way. A flashlight mechanic is also a future improvement I'd like to see.
+I would like to see the game add the scroll feature, as stated in my Kanban board, as this is an essential mechanic in the end game. I would also like to see the performance improved drastically. This can be improved by the end of the game when I go to cook it. I can compile the game down to C++ later on and run it that way. A flashlight mechanic is also a future improvement I'd like to see as well as interactable doors, which is my goal for the next sprint.
