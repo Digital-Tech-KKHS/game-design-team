@@ -23,11 +23,9 @@
             "id": "412bd00346d3ee84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "sprint-docs/Sprint Document One.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban.md"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint-docs/Sprint Document One.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint-docs/Sprint Document One.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint-docs/Sprint Document One.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -198,10 +196,10 @@
   },
   "active": "412bd00346d3ee84",
   "lastOpenFiles": [
+    "sprint-docs/Sprint Document One.md",
     "sprint-docs/Sprint Document Two.md",
     "testing-and-trialing/Trialing Example.md",
     "testing-and-trialing/testing.md",
-    "sprint-docs/Sprint Document One.md",
     "sprint-docs/Sprint Document Template.md",
     "Pasted image 20230510100501.png",
     "Kanban.md",

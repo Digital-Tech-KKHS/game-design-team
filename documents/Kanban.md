@@ -9,6 +9,11 @@ kanban-plugin: basic
 - [ ] Add a door mechanic
 - [ ] Add a flashlight mechanic
 - [ ] Lower the jump height for development in the final game
+- [ ] Design level one
+- [ ] Design level two
+- [ ] Design level three
+- [ ] Extend the door mechanic by requiring certain conditions in order for the door to open
+- [ ] Design a weighted button
 
 
 ## Doing
