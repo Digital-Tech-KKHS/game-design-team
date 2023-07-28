@@ -25,12 +25,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DatasmithC4DImporter",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac"
-			]
+			"Name": "A23DAssetImporterPlugin",
+			"Enabled": true
 		},
 		{
 			"Name": "DatasmithCADImporter",
@@ -40,8 +36,12 @@
 			]
 		},
 		{
-			"Name": "A23DAssetImporterPlugin",
-			"Enabled": true
+			"Name": "DatasmithC4DImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
 		}
 	]
 }
