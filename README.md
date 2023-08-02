@@ -1,5 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10172557&assignment_repo_type=AssignmentRepo)
-# Game Design with Python Arcade Kerikeri High School
+[![Open in Unreal Engine 5.2.1](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10172557&assignment_repo_type=AssignmentRepo)
+# Game Design with Unreal Engine 5 Kerikeri High School
 
 Template repo for final arcade projects Kerikeri High School DTC
 
@@ -25,13 +25,10 @@ This template creates student repositories for senior game design projects.
 </br>
 
 # 👨‍🏫 Helpful Links 🐍 
-### 🔥 Arcade [Reference](https://api.arcade.academy/en/latest/)
-### 🔥 Python Arcade [Discord](https://discord.com/invite/ZjGDqMp)
-### 🔥 Platformer [Tutorial](https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html)
-### 🔥 [Coding with Mr Ward](https://www.youtube.com/watch?v=ipy88sNOgQk&list=PL-NaYeCEwvWg9he3WAr8zGtLNiO8pPMWc)
+### 🔥 Unreal [Reference](https://docs.unrealengine.com/5.2/en-US/)
 
 # Hand in checklist: 
-- [ ] I have a working program with main.py as the entrypoint
+- [ ] I have a working program
 - [ ] My program works on my end user's computer
 - [ ] My code is PEP 8 compliant hand has informative comments
 - [ ] There are multiple commits to this repo showing itterative development
@@ -40,4 +37,4 @@ This template creates student repositories for senior game design projects.
 - [ ] I have completed A B trials on end users for every sprint
 - [ ] I have tested each component of my program and documented the tests for each sprint
 - [ ] I have checked my work against the assassment schedules. 
-- [ ] All my work is my own and I have clearly referenced code and assets from other sources in the comments.
+- [ ] All my work is my own and I have clearly referenced code and assets from other sources in the credits screen on the main menu.

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-docs/Sprint Document 3.md",
+                "file": "sprint-docs/Sprint Document One.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint-docs/Sprint Document 3.md",
+                "file": "sprint-docs/Sprint Document One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint-docs/Sprint Document 3.md",
+                "file": "sprint-docs/Sprint Document One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint-docs/Sprint Document 3.md"
+                "file": "sprint-docs/Sprint Document One.md"
               }
             }
           },
@@ -210,16 +210,20 @@
   },
   "active": "1fc2fdbf34f10661",
   "lastOpenFiles": [
-    "sprint-docs/Sprint Document 4.md",
-    "sprint-docs/Sprint Document 3.md",
     "sprint-docs/Sprint Document Template.md",
     "sprint-docs/Sprint Document Two.md",
+    "sprint-docs/Sprint Document 4.md",
+    "sprint-docs/Sprint Document 3.md",
+    "Pasted image 20230803083452.png",
+    "Kanban.md",
+    "Pasted image 20230803083423.png",
+    "Kanban 1.md",
+    "Pasted image 20230803083245.png",
     "Final Hand in statement .md",
     "testing-and-trialing/testing.md",
     "testing-and-trialing/menu_orange.png",
     "testing-and-trialing/main_menu.png",
     "sprint-docs/Sprint Document One.md",
-    "Kanban.md",
     "testing-and-trialing/Trialing Example.md",
     "Pasted image 20230510100501.png",
     "Pasted image 20230509083643.png",
@@ -227,11 +231,8 @@
     "Pasted image 20230508143458.png",
     "Pasted image 20230508142829.png",
     "sprint-docs/What is a Sprint.md",
-    "Pasted image 20230505130943.png",
-    "Pasted image 20230505130609.png",
     "Game Design Document.md",
     "Final Review.md",
-    "Pasted image 20230505125533.png",
     "task/year-13/Teacher Info.md",
     "task/year-13/Year 13 Game Design Task.md",
     "readme.md",

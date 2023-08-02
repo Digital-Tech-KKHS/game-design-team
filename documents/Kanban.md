@@ -8,17 +8,27 @@ kanban-plugin: basic
 
 - [ ] Add a door mechanic
 - [ ] Add a flashlight mechanic
+- [ ] A play button
+- [ ] Add a quit button
+- [ ] Add a win condition
 - [ ] Lower the jump height for development in the final game
+- [ ] Interact and pick up objects
+- [ ] Set the time to night
+- [ ] Add background image in the main menu
 - [ ] Design level one
+- [ ] Resolution switching in an options menu
+- [ ] Add a return button in the options menu
+- [ ] Get a main menu
+- [ ] Texture items
+- [ ] Add a losing condition
 - [ ] Design level two
-- [ ] Design level three
 - [ ] Extend the door mechanic by requiring certain conditions in order for the door to open
-- [ ] Design a weighted button
+- [ ] Have an interact prompt
 
 
 ## Doing
 
-- [ ] Add an instruction scroll in the beginning level
+- [ ] Finish asylum scenery
 
 
 ## Testing \ Trialing
@@ -27,19 +37,7 @@ kanban-plugin: basic
 
 ## Complete 🎈🎉✨
 
-- [ ] Add gems and collectables
-- [ ] Add a win condition
-- [ ] Add a quit button
-- [ ] A playable play button
-- [ ] Get a main menu
-- [ ] Add background image in the main menu
-- [ ] Resolution switching in an options menu
-- [ ] Add a return button in the options menu
-- [ ] Create gem objects
-- [ ] Add a losing condition
-- [ ] Set the time to night
-- [ ] Texture items
-- [ ] Create the stands and platforms for the gems
+- [ ] Begin real game
 
 
 ## Bug list 🦋🐛🦟🐜🦗🐝🐞
@@ -48,10 +46,6 @@ kanban-plugin: basic
 
 ## Feature ideas 🧐🧐
 
-- [ ] Begin real game
-- [ ] Interact and pick up objects
-- [ ] Add a flashlight for rooms that don't have too much light
-- [ ] Create at least three levels
 
 
 
