@@ -1,10 +1,11 @@
-**Git Hash: first and final commit: 37ce9f78e8e6d81b17a30a22153f2667c0aef832**
+**Git Hash: 374a24487695ba109c10669acc7a46c2b6934cf3 
+			   37ce9f78e8e6d81b17a30a22153f2667c0aef832**
 
 **Sprint Number: 3**
 
-**Start Date:03/27/2023**
+**Start Date:03/07/2023**
 
-**End Date:21/0/2023**
+**End Date:21/07/2023**
 
 **Work hard rating** ☆☆☆☆☆
 
@@ -14,7 +15,7 @@
 ![[Pasted image 20230803083423.png]]
 
 ## **Screenshot of the game at the start of the sprint**
-
+![[HighresScreenshot00002.png]]
 # Sprint Summary
 
 ## **Sprint Reflection and summary:**
@@ -37,6 +38,7 @@ During this time, I still hadn't fully figured out my scenery and I wasn't entir
 ## **KANBAN board at the end of the sprint**
 ![[Pasted image 20230803083452.png]]
 ## **Screenshot of the game at the end of the sprint**
+![[HighresScreenshot00003.png]]
 
 ## Link to **Video of the game at the end of the sprint**
 

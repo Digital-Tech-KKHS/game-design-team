@@ -1,4 +1,5 @@
-**Git Hash:**
+**Git Hash: 37ce9f78e8e6d81b17a30a22153f2667c0aef832
+                **
 
 **Sprint Number:**
 
@@ -13,6 +14,7 @@
 ## **KANBAN board at the start of the sprint**
 
 ## **Screenshot of the game at the start of the sprint**
+![[HighresScreenshot00003 1.png]]
 
 # Sprint Summary
 
@@ -31,6 +33,7 @@
 ## **KANBAN board at the end of the sprint**
 
 ## **Screenshot of the game at the end of the sprint**
+![[HighresScreenshot00004.png]]
 
 ## Link to **Video of the game at the end of the sprint**
 
