@@ -70,4 +70,22 @@ Date: 04/05/2023
 | Pressing the options button                                       | Opens the options menu and allows the user to see the resolution options            | Same as expected                                        |
 | Pressing the Quit button                                          | Closes the game and removes the process from RAM                                    | Same as expected                                        |
 | Changing the resolution by interacting with the resolution button | Changes the resolution of the viewport and ensuring the game is still full-screened | Same as expected                                        |
-| Pressing play and removing all the widgets                        | Removes the main menu screen                                                        | Same as expected                                        | 
+| Pressing play and removing all the widgets                        | Removes the main menu screen                                                        | Same as expected                                        |
+
+## Test 7:
+# Testing the opening and closing of the doors and the interact prompt
+![[Pasted image 20230804124126.png]]
+
+| Test Data                                                         | Expected                                                                            | Observed                                            |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Walking up to the door                                            | The game calls the widget "overlap prompt" and displays the prompt on screen        | Overlap prompt is called and is displayed on screen |
+| Pressing E to interact with the door                              | The door opens and closes while playing the animation and the sound                 | Same as expected                                    |
+
+## Test 7:
+# Testing the picking up of keys in the scene
+![[Pasted image 20230804124348.png]]
+
+| Test Data                            | Expected                                                                     | Observed                                            |
+| ------------------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------- |
+| Walking into the key hitbox          | The game calls the widget "overlap prompt" and displays the prompt on screen | Overlap prompt is called and is displayed on screen | 
+| Pressing E to pick the key up  | The door opens and closes while playing the animation and the sound          | Same as expected                                    |
