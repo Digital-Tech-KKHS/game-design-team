@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing-and-trialing/testing.md",
+                "file": "Game Design Document.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-docs/Sprint Document 3.md",
+                "file": "sprint-docs/Sprint Document 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing-and-trialing/testing.md",
+                "file": "sprint-docs/Sprint Document 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing-and-trialing/testing.md",
+                "file": "sprint-docs/Sprint Document 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing-and-trialing/testing.md"
+                "file": "sprint-docs/Sprint Document 4.md"
               }
             }
           },
@@ -205,32 +206,33 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9974697dfede1243",
+  "active": "c861859dd6adf83c",
   "lastOpenFiles": [
+    "sprint-docs/Sprint Document Template.md",
+    "sprint-docs/Sprint Document 4.md",
+    "sprint-docs/Sprint Document Two.md",
+    "testing-and-trialing/testing.md",
+    "Final Review.md",
+    "testing-and-trialing/menu_orange.png",
+    "testing-and-trialing/main_menu.png",
+    "testing-and-trialing/Trialing AI navigation in the building.md",
+    "testing-and-trialing/Trialing AI navigation outside.md",
+    "testing-and-trialing/Trialing opening doors with keys.md",
+    "sprint-docs/Sprint Document One.md",
+    "Final Hand in statement .md",
+    "Pasted image 20230804140925.png",
+    "Kanban.md",
+    "sprint-docs/Sprint Document 3.md",
+    "Game Design Document.md",
+    "Pasted image 20230804125536.png",
+    "Pasted image 20230804124853.png",
     "Pasted image 20230804124348.png",
     "Pasted image 20230804124126.png",
-    "sprint-docs/Sprint Document 4.md",
-    "sprint-docs/Sprint Document 3.md",
-    "Kanban.md",
     "Pasted image 20230804005229.png",
     "Pasted image 20230804005223.png",
-    "sprint-docs/Sprint Document One.md",
     "HighresScreenshot00004.png",
-    "HighresScreenshot00003 1.png",
-    "HighresScreenshot00003.png",
-    "HighresScreenshot00002.png",
-    "sprint-docs/Sprint Document Template.md",
-    "sprint-docs/Sprint Document Two.md",
-    "Pasted image 20230803083452.png",
-    "Pasted image 20230803083423.png",
     "Kanban 1.md",
-    "Pasted image 20230803083245.png",
-    "Final Hand in statement .md",
-    "testing-and-trialing/testing.md",
-    "testing-and-trialing/Trialing Example.md",
     "sprint-docs/What is a Sprint.md",
-    "Game Design Document.md",
-    "Final Review.md",
     "task/year-13/Teacher Info.md",
     "task/year-13/Year 13 Game Design Task.md",
     "readme.md",

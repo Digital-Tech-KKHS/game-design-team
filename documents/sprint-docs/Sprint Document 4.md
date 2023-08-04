@@ -33,6 +33,7 @@ During this time, it really was crunch time and a lot of things that I needed to
 # Project at the end of the sprint
 
 ## **KANBAN board at the end of the sprint**
+![[Pasted image 20230804140925.png]]
 
 ## **Screenshot of the game at the end of the sprint**
 ![[HighresScreenshot00004.png]]

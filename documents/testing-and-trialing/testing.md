@@ -81,11 +81,31 @@ Date: 04/05/2023
 | Walking up to the door                                            | The game calls the widget "overlap prompt" and displays the prompt on screen        | Overlap prompt is called and is displayed on screen |
 | Pressing E to interact with the door                              | The door opens and closes while playing the animation and the sound                 | Same as expected                                    |
 
-## Test 7:
+## Test 8:
 # Testing the picking up of keys in the scene
 ![[Pasted image 20230804124348.png]]
 
-| Test Data                            | Expected                                                                     | Observed                                            |
-| ------------------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------- |
-| Walking into the key hitbox          | The game calls the widget "overlap prompt" and displays the prompt on screen | Overlap prompt is called and is displayed on screen | 
-| Pressing E to pick the key up  | The door opens and closes while playing the animation and the sound          | Same as expected                                    |
+| Test Data                     | Expected                                                                                  | Observed                                            |
+| ----------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Walking into the key hitbox   | The game calls the widget "overlap prompt" and displays the prompt on screen              | Overlap prompt is called and is displayed on screen |
+| Pressing E to pick the key up | The key is "picked up," and the sound plays to illustrate that the key has been picked up | Same as expected                                    |
+
+## Test 9:
+# AI roam, detection and kill logic
+![[Pasted image 20230804124853.png]]
+
+| Test Data       | Expected                                                                                                    | Observed                                                                                                                                        |
+| --------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Roaming logic   | The game begins and the AI begins to roam the navigation mesh outlayed                                      | Exactly as expected                                                                                                                             |
+| Detection logic | The AI sees the player, runs through the animation cycle and it runs at the player                          | Initially had some troubles with the enemy roaming into the rooms, but was later solved by ensuring that there was a dynamic navmesh in the map |
+| Death logic     | The player gets too close to the NPC's hitbox and the player should die, sending them back to the main menu | Exactly as expected                                                                                                                             |
+
+
+## Test 10:
+# Win condition
+![[Pasted image 20230804125536.png]]
+
+| Test Data                                   | Expected                                                                                                    | Observed                                                                                                                                        |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| The player overlaps the hitbox of the fence | The player should see an interact prompt, causing them to escape the asylum                                 | Exactly as expected                                                                                                                             |
+

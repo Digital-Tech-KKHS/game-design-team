@@ -175,3 +175,4 @@ I will address the social implication by ensuring that the language used in the 
 I will address the intellectual property implication by ensuring that the work I submit is my own, or if it is other people's work, I will make sure the work is not copyrighted. If I fail to meet this implication, the work could be classed as plagiarised  
 
 ## Cultural
+I will address the cultural property implication

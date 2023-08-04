@@ -27,6 +27,7 @@ kanban-plugin: basic
 - [ ] Extend the door mechanic by requiring certain conditions in order for the door to open
 - [ ] Set the time to night
 - [ ] Texture items
+- [ ] NPC can sometimes bug out when when going through doors
 - [ ] Add a return button in the options menu
 - [ ] Resolution switching in an options menu
 - [ ] Design level one
@@ -43,7 +44,6 @@ kanban-plugin: basic
 
 ## Bug list 🦋🐛🦟🐜🦗🐝🐞
 
-- [ ] NPC can sometimes bug out when when going through doors
 
 
 ## Feature ideas 🧐🧐
