@@ -20,9 +20,6 @@
 
 ## **Sprint Reflection and summary:**
 During this time, I still hadn't fully figured out my scenery and I wasn't entirely sure the direction this game was going to go as my game design document wasn't helping all that much. I ran into complications that had to be solved such as modelling the scenery. The scenery had to be modelled in Autodesk Revit as I needed a place to model architecture. This could then be exported from Revit to the unreal engine which was thankfully painless. During this time, not a lot of programming was happening, mainly because I wanted to fully sort the scenery before I set out on implementing mechanics. During this time, my game setting was decided as well, I decided on the setting of the asylum, as opposed to the setting of a forest. With the asylum, the level could be made more interesting and didn't require too much detail to have a proper level. 
-
-## **Briefly describe other team members contributions**
-
 ## **Major Changes and Achievements Described**
 - Decided on changing level theme to asylum
 - Figured out how to use the datasmith plugin properly
@@ -33,7 +30,6 @@ During this time, I still hadn't fully figured out my scenery and I wasn't entir
 - Forest scene was placed in front of play testers and found the world boring.
 - Forest scene was scraped in favour of an asylum scene.
 - Forest scene presented issues such as poor framerates and collision issues.
-
 ## **Link to testing results/tables**
 [[testing]]
 # Project at the end of the sprint

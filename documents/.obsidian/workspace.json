@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-docs/Sprint Document 1.md",
+                "file": "sprint-docs/Sprint Document 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sprint-docs/Sprint Document 1.md",
+                "file": "sprint-docs/Sprint Document 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sprint-docs/Sprint Document 1.md",
+                "file": "sprint-docs/Sprint Document 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sprint-docs/Sprint Document 1.md"
+                "file": "sprint-docs/Sprint Document 4.md"
               }
             }
           },
@@ -175,20 +175,26 @@
   },
   "active": "627d655f69c632d2",
   "lastOpenFiles": [
-    "sprint-docs/Sprint Document 2.md",
-    "Game Design Document.md",
-    "sprint-docs/Sprint Document 1.md",
-    "readme.md",
-    "sprint-docs/Sprint Document 4.md",
     "testing-and-trialing/testing.md",
+    "task/year-13/Year 13 Marking Schedule.md",
+    "task/year-13/Year 13 Game Design Task.md",
+    "task/year-13/Teacher Info.md",
+    "task/year-12/Marking Schedule.md",
+    "sprint-docs/Sprint Document 4.md",
+    "sprint-docs/Sprint Document 3.md",
+    "sprint-docs/Sprint Document 2.md",
+    "sprint-docs/Sprint Document 1.md",
+    "Final Hand in statement .md",
+    "task/year-12/Year 12 Arcade Game Design Task.md",
+    "task/year-12/Teacher Info.md",
+    "sprint-docs/What is a Sprint.md",
+    "Game Design Document.md",
+    "readme.md",
     "testing-and-trialing/Trialing the pause menu.md",
     "testing-and-trialing/Trialing opening doors with keys.md",
     "testing-and-trialing/Trialing AI navigation outside.md",
     "testing-and-trialing/Trialing AI navigation in the building.md",
     "Final Review.md",
-    "Final Hand in statement .md",
-    "sprint-docs/Sprint Document 3.md",
-    "sprint-docs/What is a Sprint.md",
     "Kanban.md",
     "Pasted image 20230805221519.png",
     "Pasted image 20230805221432.png",
@@ -202,11 +208,6 @@
     "Pasted image 20230805214939.png",
     "sprint-docs/Sprint Document Template.md",
     "Kanban 1.md",
-    "task/year-13/Teacher Info.md",
-    "task/year-13/Year 13 Game Design Task.md",
-    "readme.md.md",
-    "task/year-12/Marking Schedule.md",
-    "task/year-12/Teacher Info.md",
-    "task/year-12/Year 12 Arcade Game Design Task.md"
+    "readme.md.md"
   ]
 }

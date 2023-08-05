@@ -21,14 +21,12 @@
 # Sprint Summary
 ## **Sprint Reflection and summary:**
 During this time, the ground work for the game had to be laid out. I managed to use Inventor and 3DS Max to model the structures seen in the two screenshots of the game and had no troubles with this. Some collision work had to be done and a lot of figuring things out as I go was occurring during this time. However, it was relatively easy implementing the mechanics I needed as the blueprint language is easy to understand and to read.
-
 ## **Major Changes and Achievements Described:**
 - Created some gems and textured them
 - Added a losing condition
 - Changed the time to night
 - Created the stands for the player to interact with
 - Can interact with the gems
-
 ## **Brief Description of your testing**
 - Game was presented to play tester and no bugs were present due to simplicity
 - Game did not have a win condition so play tester wanted to see that implemented

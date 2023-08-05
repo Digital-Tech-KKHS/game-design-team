@@ -1,4 +1,3 @@
-[![Open in Unreal Engine 5.2.1](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10172557&assignment_repo_type=AssignmentRepo)
 # Game Design with Unreal Engine 5 Kerikeri High School
 
 Template repo for final arcade projects Kerikeri High School DTC
@@ -29,6 +28,7 @@ This template creates student repositories for senior game design projects.
 
 # Hand in checklist: 
 - [ ] I have a working program
+- [ ] Game can be run from the "Windows" folder
 - [ ] My program works on my end user's computer
 - [ ] My code is PEP 8 compliant hand has informative comments
 - [ ] There are multiple commits to this repo showing itterative development

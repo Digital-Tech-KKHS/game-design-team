@@ -2,9 +2,21 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "063790344C62B520A5E3E0C2D62F7A9E8DE1932B",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "BD084FDF51FE7A95DCB1F3D778FD8AB3408D2976",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -17,12 +29,6 @@
 			"ShaderMapHash": "2ACCC903A21F404939F681368E78901A91590DEF",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -50,21 +56,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6F5D7A35238D5A57901D6BA2481BD3D4199B04F9",
+			"ShaderMapHash": "3A40243A0DB13753F782B84F4EA528AD76FB8505",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+				"/Engine/VREditor/TransformGizmo/Xray"
 			]
 		},
 		{
-			"ShaderMapHash": "584DE1221FC59EF720FAE2F2B7AAC827300DD7CA",
+			"ShaderMapHash": "ABF0AE8B4D6460BF57EE440645BDAB99C3B09229",
 			"Assets": [
-				"/Engine/EditorMaterials/Camera/CineMat"
-			]
-		},
-		{
-			"ShaderMapHash": "063790344C62B520A5E3E0C2D62F7A9E8DE1932B",
-			"Assets": [
-				"/ControlRig/Controls/ControlRigGizmoMaterial"
+				"/Engine/VREditor/TransformGizmo/Main"
 			]
 		},
 		{
@@ -80,15 +80,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3A40243A0DB13753F782B84F4EA528AD76FB8505",
+			"ShaderMapHash": "6F5D7A35238D5A57901D6BA2481BD3D4199B04F9",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
 			]
 		},
 		{
-			"ShaderMapHash": "ABF0AE8B4D6460BF57EE440645BDAB99C3B09229",
+			"ShaderMapHash": "584DE1221FC59EF720FAE2F2B7AAC827300DD7CA",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
+				"/Engine/EditorMaterials/Camera/CineMat"
 			]
 		},
 		{
@@ -123,15 +123,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6AD92431E92E425DEBDC6C351918C071876255B",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "95B0B952FAE8EF592C9E5DCE72519100E8DC75CF",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
 			"ShaderMapHash": "DE6E354202800737CD8129D30065844EEFB19E0F",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
 			]
 		},
 		{
-			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0EBA8A6C0D8E3E26A4EBB0AA81B97B7038677996",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
@@ -145,30 +169,6 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "0EBA8A6C0D8E3E26A4EBB0AA81B97B7038677996",
-			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "95B0B952FAE8EF592C9E5DCE72519100E8DC75CF",
-			"Assets": [
-				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E6AD92431E92E425DEBDC6C351918C071876255B",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -202,9 +202,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1E41C087BB13C0B03B336ECD429C3331C10CD7A7",
+			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
 			"Assets": [
-				"/Game/STF/Landscape/Environment/Foliage/DeadTrees/M_dead-tree-lod3"
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -214,22 +214,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FA26BBEC9CAF2F4D4C42F02EA8E9D683261C2F06",
+			"ShaderMapHash": "414E4335B91F16B6882EE1D47C1609D8A1D548CF",
 			"Assets": [
-				"/Game/Assets/Asylum/LadyoftheAsylum/Body",
-				"/Game/Assets/Asylum/LadyoftheAsylum/Dress"
+				"/Game/Assets/Asylum/RoofTiles/RoofTiles"
 			]
 		},
 		{
-			"ShaderMapHash": "AFC1E8E4EF85FA4ED1768A18B555289D940D4421",
+			"ShaderMapHash": "1E41C087BB13C0B03B336ECD429C3331C10CD7A7",
 			"Assets": [
-				"/Game/Assets/Asylum/LadyoftheAsylum/Hair"
-			]
-		},
-		{
-			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
+				"/Game/STF/Landscape/Environment/Foliage/DeadTrees/M_dead-tree-lod3"
 			]
 		},
 		{
@@ -239,21 +232,49 @@
 			]
 		},
 		{
-			"ShaderMapHash": "414E4335B91F16B6882EE1D47C1609D8A1D548CF",
+			"ShaderMapHash": "510C6015F8C0DB9AB21D4E714BFA80E3C9F6FFAA",
 			"Assets": [
-				"/Game/Assets/Asylum/RoofTiles/RoofTiles"
-			]
-		},
-		{
-			"ShaderMapHash": "EB4E947C8166365747B82C7FC52B496B75C51F3B",
-			"Assets": [
-				"/Game/Assets/Asylum/LadyoftheAsylum/Eyes"
-			]
-		},
-		{
-			"ShaderMapHash": "E674D2EBEE7DD467C736CC4AB7537540D1E63686",
-			"Assets": [
-				"/Game/Assets/Asylum/InteriorBedWalls/InteriorBricks"
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Fridge_DoorD",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Pilow",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/TV_Retro",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Toilet",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/ToiletWall",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Tap",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Tank_V2",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/TableSmall",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/TableOffice",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/TableKitchen",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/SurgeryTable",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Construction",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Matres",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Patern",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Bottom",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Base",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/SofaChair",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Sink",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Shower",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/ProjectorCloth",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Pillow",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/PC_Monitor",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/MorgueBox_Door",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/MorgueBox_Bed",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/MorgueBox",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/LampWall",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/KitchenShelf",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Heater",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Fridge_DoorH",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/CurtainsMedic",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Fridge_Case",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/FilmProjector",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Door_Frame",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Door",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Cupboard",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/CupboardLight_Broken",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/ChairOffice",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/BigShelf",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/BigBoiler",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/Bed",
+				"/Game/Assets/Asylum/AsylumDecorations/Models/BedFeather"
 			]
 		},
 		{
@@ -275,61 +296,40 @@
 			]
 		},
 		{
-			"ShaderMapHash": "510C6015F8C0DB9AB21D4E714BFA80E3C9F6FFAA",
+			"ShaderMapHash": "FA26BBEC9CAF2F4D4C42F02EA8E9D683261C2F06",
 			"Assets": [
-				"/Game/Assets/Asylum/AsylumDecorations/Models/TV_Retro",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Toilet",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/ToiletWall",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Tap",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Tank_V2",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/TableSmall",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/TableOffice",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/TableKitchen",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/SurgeryTable",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/MorgueBox_Door",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/MorgueBox_Bed",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Construction",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Matres",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Patern",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Bottom",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Base",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Sofa_Pilow",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/SofaChair",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Sink",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Shower",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/ProjectorCloth",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Pillow",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/PC_Monitor",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/MorgueBox",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/LampWall",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/KitchenShelf",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Heater",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Fridge_DoorH",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Fridge_DoorD",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Fridge_Case",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/FilmProjector",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Door_Frame",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Door",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/CurtainsMedic",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/CupboardLight_Broken",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/ChairOffice",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/BigShelf",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/BigBoiler",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Bed",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/BedFeather",
-				"/Game/Assets/Asylum/AsylumDecorations/Models/Cupboard"
+				"/Game/Assets/Asylum/LadyoftheAsylum/Dress",
+				"/Game/Assets/Asylum/LadyoftheAsylum/Body"
 			]
 		},
 		{
-			"ShaderMapHash": "1979710A56074A2904EBE78CA3F99E9485649F47",
+			"ShaderMapHash": "EB4E947C8166365747B82C7FC52B496B75C51F3B",
 			"Assets": [
-				"/Game/Assets/Asylum/AsylumDecorations/Models/NeonLamp"
+				"/Game/Assets/Asylum/LadyoftheAsylum/Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "AFC1E8E4EF85FA4ED1768A18B555289D940D4421",
+			"Assets": [
+				"/Game/Assets/Asylum/LadyoftheAsylum/Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "E674D2EBEE7DD467C736CC4AB7537540D1E63686",
+			"Assets": [
+				"/Game/Assets/Asylum/InteriorBedWalls/InteriorBricks"
 			]
 		},
 		{
 			"ShaderMapHash": "0403324809E064910D242E09C96CDAB12360B2FB",
 			"Assets": [
 				"/Game/Assets/Asylum/AsylumDecorations/Models/SurgeryLamp"
+			]
+		},
+		{
+			"ShaderMapHash": "1979710A56074A2904EBE78CA3F99E9485649F47",
+			"Assets": [
+				"/Game/Assets/Asylum/AsylumDecorations/Models/NeonLamp"
 			]
 		},
 		{
@@ -376,6 +376,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "48674F62C86011014A12735CC82C9525540634EA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -400,15 +406,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6C282F1AD637B13348AA0EDFAE0BEC8E58FE399C",
+			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
 			"Assets": [
-				"/DatasmithContent/Materials/CE_OpacitySimpleReference"
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
+			"ShaderMapHash": "A6BA94506444BF4EED98CC21F47D39430A87D067",
 			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
+				"/Game/Assets/Grass/M_FieldGrass_01",
+				"/Game/Assets/Grass/M_FieldGrass_Inst_01_LOD1"
 			]
 		},
 		{
@@ -424,22 +431,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A6BA94506444BF4EED98CC21F47D39430A87D067",
+			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
 			"Assets": [
-				"/Game/Assets/Grass/M_FieldGrass_01",
-				"/Game/Assets/Grass/M_FieldGrass_Inst_01_LOD1"
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"ShaderMapHash": "6C282F1AD637B13348AA0EDFAE0BEC8E58FE399C",
 			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+				"/DatasmithContent/Materials/CE_OpacitySimpleReference"
 			]
 		},
 		{
@@ -513,20 +513,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DCE820D150D7D206167E52D2C88821AC8C79D74A",
-			"Assets": [
-				"/Game/STF/Landscape/Environment/Foliage/DeadTrees/MI_dead-tree-leafs_master_Inst",
-				"/Game/STF/Landscape/Environment/Foliage/GreenTrees/MI_dead-tree-leafs_master_Inst",
-				"/Game/STF/Landscape/Environment/Foliage/DeadTrees/tree01/MI_dead-tree-leafs_master_Inst_lod00"
-			]
-		},
-		{
-			"ShaderMapHash": "79ABFAEE780BD0718B6F4E7C8934087A93F30D3C",
-			"Assets": [
-				"/Game/Assets/Grass/M_FieldGrass_Inst_01_LOD2"
-			]
-		},
-		{
 			"ShaderMapHash": "6ECD9E98F706028BF8E1AA683122F5E8EE9DFB98",
 			"Assets": [
 				"/DatasmithContent/Materials/StdEmissive/M_StdEmissive"
@@ -548,6 +534,20 @@
 			"ShaderMapHash": "C1FD5765E7EC5F71C35FE1BBA26EC1C053A04FC0",
 			"Assets": [
 				"/DatasmithContent/Materials/StdDecal/M_StdDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "79ABFAEE780BD0718B6F4E7C8934087A93F30D3C",
+			"Assets": [
+				"/Game/Assets/Grass/M_FieldGrass_Inst_01_LOD2"
+			]
+		},
+		{
+			"ShaderMapHash": "DCE820D150D7D206167E52D2C88821AC8C79D74A",
+			"Assets": [
+				"/Game/STF/Landscape/Environment/Foliage/DeadTrees/tree01/MI_dead-tree-leafs_master_Inst_lod00",
+				"/Game/STF/Landscape/Environment/Foliage/GreenTrees/MI_dead-tree-leafs_master_Inst",
+				"/Game/STF/Landscape/Environment/Foliage/DeadTrees/MI_dead-tree-leafs_master_Inst"
 			]
 		},
 		{
@@ -593,19 +593,25 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7A9265488D16F81500CCE45C10762CE6E44834FC",
-			"Assets": [
-				"/Game/Assets/Asylum/Blended_Material/Blended_Material"
-			]
-		},
-		{
 			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
-			"ShaderMapHash": "25464B9888F264F1729B05AB986CB93AF1125659",
+			"ShaderMapHash": "7A9265488D16F81500CCE45C10762CE6E44834FC",
+			"Assets": [
+				"/Game/Assets/Asylum/Blended_Material/Blended_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "88AA1834CCA727EAB859798C27022DBE599FD7C7",
+			"Assets": [
+				"/Game/FirstPerson/Maps/FirstPersonMap"
+			]
+		},
+		{
+			"ShaderMapHash": "5C9DB10512E95D6C89D3ED70210964A2ECC8B264",
 			"Assets": [
 				"/Game/FirstPerson/Maps/FirstPersonMap"
 			]

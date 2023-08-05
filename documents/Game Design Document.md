@@ -157,7 +157,6 @@ Character #3
 # Relevant Implications
 Choose 3 relevant implications. Discuss how you will ensure these are addressed. 
 [Relevant implications](https://www.freybergdigital.co.nz/relevant-implications.html)
-
 ## Social
 I will address the social implication by ensuring that the language used in the game is not inappropriate for a social setting. The language used will also not offend people and their beliefs. Values and other viewpoints of the world will also not be attacked and I will ensure that this addressed correctly by having a variety of people from different backgrounds to play my game and survey them if they find the language anything else offensive such as art or visuals.
 

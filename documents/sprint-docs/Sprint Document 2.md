@@ -21,9 +21,6 @@
 
 ## **Sprint Reflection and summary:**
 During this time, I mainly struggled with making the play button interactable. This was due to my developing understanding of the blueprint visual scripting language. I managed to fix this issue by creating two levels, one for the main menu and one for the actual game. The main menu level contained the assets required for the main menu and this solved the issue that I had which was that my play button wouldn't load my level. I made sure that my game was loading the main menu screen first, then once the play button was pressed, the playable level was loading and removing the main menu level from view. If I hadn't had done this, the main menu level wouldn't disappear and the game would start rendering beneath the main menu.
-## **Briefly describe other team members contributions:**
-N/A
-
 ## **Major Changes and Achievements Described:**
 - Added gems and collectables
 - Added a win condition

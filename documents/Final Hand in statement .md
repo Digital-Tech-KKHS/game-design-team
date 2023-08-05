@@ -1,15 +1,11 @@
 **Name:**    
 **Date submitted:**     
 **Final Git Hash:**
-
 # Requirements
 **Code works with the following versions**
 
-**Python version:**  
-
-**Arcade version:**
-
-**Additional Libraries:**
+**Unreal Engine version: 5.2.1**  
+**Only windows-based operating systems are supported**
 # Copyright information
 
 **Graphical Assets**
@@ -36,14 +32,14 @@ Code created by myself. Inspired by and adapted from the following tutorials
 
 Please describe how you know your final game works
 
-> Explain here 
+> First the player is spawned into a room full of beds after pressing the play button. The player must search through the rooms upstairs to find the correct key to unlock the door that sits on a wall that is at or near a 45° angle. This will open the door to the stairs that will take you to the bottom floor. Downstairs, the player will find another lady of the asylum that they must evade in order to escape the asylum. The player must search the downstairs area in order to find the right key to open the door that is located on the right side (relative to the staircase) of the asylum. The player can then open that door and make their way to the hole in the fence and escape the asylum. 
 
 **Authenticity Statement**
 
 Other than using tutorials and example code, all this work is my own. I understand all of the code and can explain it. Every commit made from my account was made by me. 
 
-> **Signed:**   
-> **Date:**  
+> **Signed:** Xavier Frater
+> **Date:** 04/08/2023
 # Handing in checklist
 
 Please ensure you have the following in your the final commit on the master branch.
