@@ -26,20 +26,23 @@ During this time, I still hadn't fully figured out my scenery and I wasn't entir
 ## **Major Changes and Achievements Described**
 - Decided on changing level theme to asylum
 - Figured out how to use the datasmith plugin properly
-- Switches setting from forest to an asylum setting
+- Switched setting from forest to an asylum setting
 - Began modelling building for use in unreal
-
+- Gave player a flashlight
 ## **Brief Description of your testing**
+- Forest scene was placed in front of play testers and found the world boring.
+- Forest scene was scraped in favour of an asylum scene.
+- Forest scene presented issues such as poor framerates and collision issues.
 
 ## **Link to testing results/tables**
-
+[[testing]]
 # Project at the end of the sprint
 
 ## **KANBAN board at the end of the sprint**
 ![[Pasted image 20230803083452.png]]
 ## **Screenshot of the game at the end of the sprint**
 ![[HighresScreenshot00003.png]]
-
 ## Link to **Video of the game at the end of the sprint**
-
+![](https://youtu.be/Ih4-t8O2jYs)
 ## **Notes for next time, future improvements**
+I would like to make sure that I get the entire bottom story finished and start implementing game mechanics for the next sprint. I feel like I'm a little behind in this sprint so I would like to use next sprint to catch up on the work that I did not do. A future improvement is finishing the building and adding the enemies for the game.

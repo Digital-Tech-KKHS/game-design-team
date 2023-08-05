@@ -3,21 +3,22 @@
 
 Date: 12/04/2023
 ![[Pasted image 20230403141627.png]]
-| Test Data                           | Expected                              | Observed                            |
-| ----------------------------------- | ------------------------------------- | ----------------------------------- |
-| Moving backwards and forth          | The ball rolls backwards and forwards | The ball rolled backwards and forth |
-| Moving the character left and right | The ball rolls left and right         | The ball rolled left and right      |
-| Pressing space to jump              | The balls will move vertically        | The ball moves vertically           | 
 
+| Test Data                           | Expected                              | Observed         |
+| ----------------------------------- | ------------------------------------- | ---------------- |
+| Colliding with the gem              | The ball rolls backwards and forwards | Same as expected |
+| Moving the character left and right | The ball rolls left and right         | Same as expected |
+| Pressing space to jump              | The character jumps                   | Same as expected                 |
 
 ## Test 2:
 # Checking for collisions with gems
 Date: 27/04/2023
 ![[Pasted image 20230505123322.png]]
-| Test Data              | Expected                                                                      | Observed            |
-| ---------------------- | ----------------------------------------------------------------------------- | ------------------- |
-| Colliding with the gem | The gem is collided with by the player and is destroyed (removed from memory) | Exactly as expected |
-| Adding to the score    | The score counter increases after the actor is destroyed                      | Exactly as expected | 
+
+| Test Data              | Expected                                                                      | Observed         |
+| ---------------------- | ----------------------------------------------------------------------------- | ---------------- |
+| Colliding with the gem | The gem is collided with by the player and is destroyed (removed from memory) | Same as expected |
+| Adding to the score    | The score counter increases after the actor is destroyed                      | Same as expected | 
 
 ## Test 3:
 # Testing if gem rotates when game is running
@@ -107,5 +108,52 @@ Date: 04/05/2023
 
 | Test Data                                   | Expected                                                                                                    | Observed                                                                                                                                        |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| The player overlaps the hitbox of the fence | The player should see an interact prompt, causing them to escape the asylum                                 | Exactly as expected                                                                                                                             |
+| The player overlaps the hitbox of the fence | The player should see an interact prompt, allowing them to escape the asylum                                 | Exactly as expected                                                                                                                             |
+
+## Test 11:
+# Updated main menu with other screens such as options, credits and quit options
+
+### Credits menu:
+![[Pasted image 20230805214939.png]]
+
+| Test Data                                              | Expected                                  | Observed            |
+| ------------------------------------------------------ | ----------------------------------------- | ------------------- |
+| The player presses the back button in the credits menu | The player is taken back to the main menu | Exactly as expected |
+
+### Options menu:
+(Cannot provide screenshot of full code, only snippet of code)
+![[Pasted image 20230805215234.png]]
+![[Pasted image 20230805215417.png]]
+
+| Test Data                                        | Expected                                                                                                                                     | Observed                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The player selects the graphical fidelity wanted | The graphical fidelity is applied game-wide                                                                                                  | Exactly as expected                                                                                                                                                                                                                                                                                                                            |
+| The player presses the optimal settings button   | The engine runs a hardware benchmark on the device and applies the setting appropriate for the hardware                                      | Exactly as expected                                                                                                                                                                                                                                                                                                                            |
+| The player presses the back button               | The player is returned to the main menu                                                                                                      | Exactly as expected                                                                                                                                                                                                                                                                                                                            |
+| The player presses the save settings button      | The settings are loaded into a file and can be accessed by the engine at a later state with that state being when the game is next loaded up | Initially had a lot of trouble with this as the engine would not save the settings into a file due to the wrong node setting the buttons to be enabled. This problem was solved in the main menu blueprint by switching the "construct widget" node to "create widget" node allowing the users settings to be saved and loaded whenever needed |
+
+### Main menu:
+![[Pasted image 20230805215831.png]]
+
+| Test Data                             | Expected                                                     | Observed            |
+| ------------------------------------- | ------------------------------------------------------------ | ------------------- |
+| The player presses the play button    | The game level is loaded and the main menu widget disappears | Exactly as expected |
+| The player presses the options button | The options menu is loaded                                   | Exactly as expected |
+| The player presses the credits button | The credits are loaded                                       | Exactly as expected |
+| The player presses the quit button    | The game exits                                               | Exactly as expected |
+
+## Test 12:
+# AI animation cycle state machine
+![[Pasted image 20230805221330.png]]
+### Walking to screaming / running:
+![[Pasted image 20230805221432.png]]
+### Screaming / running to walking:
+![[Pasted image 20230805221519.png]]
+
+| Test Data                                                                      | Expected                                                 | Observed                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The speed is below the threshold for screaming / running                       | The enemy goes back to roaming                           | Initially had major issues with the state machine as I was miscalculating the speed of my enemy in code. This was solved by printing out the speed of the enemy and setting my state machine to check for the right speed accordingly. These issues were fixed once the right speed was being checked for |
+| The speed is below and then above the correct conditions for roaming / walking | The enemy plays the screaming and then running animation | Same as above.                                                                                                                                                                                                                                                                                            |
+
+
 

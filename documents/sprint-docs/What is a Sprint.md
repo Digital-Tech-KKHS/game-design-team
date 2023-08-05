@@ -29,6 +29,7 @@ Here is the overview.
 
 
 **WEEK 2**
+
 | Mon                                             | Tues                   | Wed       | Fri       | Weekend                             |
 | ----------------------------------------------- | ---------------------- | --------- | --------- | ----------------------------------- |
 | New week set up.                                | Work on you goals      | Halfway, how's it going? | Work Hard | What do you need to do this weekend |

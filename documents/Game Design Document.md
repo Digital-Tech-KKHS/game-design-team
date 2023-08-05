@@ -2,8 +2,7 @@
 
 # Elevator pitch
 
-I'm developing a puzzle game that is set in the present day with a faceless character inspired by isometric-style puzzle games. Gameplay is very linear and story-driven, based on games like little nightmares. 
-
+I'm developing a puzzle game that is set in the present day with a faceless character inspired by isometric-style puzzle games. Gameplay is very linear and story-driven, based on games like little nightmares.
 # Concept Overview
 
 ### Genre: 3D Puzzle / Action
@@ -25,7 +24,7 @@ Cubical Odyssey is a 3D action puzzle game that is set in an unknown location, s
 # Project scope
 
 ## Our team
-Me >:)
+Me
 
 # Timeline
 
@@ -39,6 +38,7 @@ Me >:)
 # Success Criteria
 Considering your intended audience and the objectives of your game come up with 5 or more criteria that you will use to determine if your game has been successful. 
 What evidence will you use to measure each criteria? 
+
 |     | Criteria              | Evidence                                                                                                                                                                           |
 | --- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Enjoyable             | Going to conduct an exit survey to ask if the game was enjoyable and would like to have an honest opinion on this topic so I would like to survey reliable people                  |
@@ -55,12 +55,6 @@ The game is set in a haunted house where a local, faceless character is trapped 
 General description
 
 The haunted house was a place built during the 1700's for a family of four that abruptly moved out after a mysterious event disturbed the previous owners. The place is riddled with scrolls, pieces of the story that are left over due to the quick and swift abandonment. The collectables can be discovered by searching through rooms of a bygone era and hallways filled with puzzles and challenges that the user has to overcome. These puzzles and other collectables give hints towards the story and the backstory to the character the user is playing. The house is located by itself in the middle of nowhere.
-
-...
-
-Inspiration
-... 
-
 # Story
 
 ## Backstory 
@@ -73,11 +67,11 @@ The Haunted House is a place full of mysteries which need to be found by the use
 ## The Protagonist
  Backstory: A character that the player must connect with and name in the beginning. The player needs to learn more and understand the unknown player through discovery of scrolls and other left behind items as well as talking to the interactable NPC's that the player will encounter through the game. Slowly over time the player will discover that they're the villain
 
- Personality: A faceless character, white and has a similar appearance to that of a person
+ Personality: Lacks personality and can be inferred by the player
 
- Appearance:
+ Appearance: A faceless character, white and has a similar appearance to that of a person
 
- Special abilities:
+ Special abilities: N/A
 
 ## Supporting Character #1
  Backstory: Ghost of the games' past and the haunted houses past. Not much is known about this character aside from the fact they have lived in the haunted house for a long time. 
@@ -87,9 +81,6 @@ The Haunted House is a place full of mysteries which need to be found by the use
  Appearance: A black, ball-like ghost. Can be found hovering around the map and can help the player in some scenarios where they may be stuck. Will offer information and backstory on what happened to the house but ultimately doesn't know what drove the previous family out.
 
  Special abilities: Floating and giving advice. 
-
-## Supporting Character #2
- ...
 
 # Gameplay
 
@@ -131,12 +122,11 @@ for using in your project.
 What requirements will your end user have to run the game? How will you distribute it to them? 
 
 The project will be developed in the unreal engine using a mix of the blueprint language and C++. The libraries will be provided by the unreal engine and other assets that aren't provided will be made using the unreal engine's asset editor. Unreal Engine provides me with everything I need as it provides a built-in asset editor. The game will require at least a GTX 460 graphics card and an Intel Core i5 2400 or AMD FX-8350 with a minimum of 4GB of RAM. The recommended requirements will be at least a GTX 760 or Radeon RX470, an Intel Core i7 2600 or AMD FX-9590 with a recommended 8GB of RAM. The game will be distributed using GitHub.  
-
 # Required Assets
 ## Art 
-Character models for ghost NPC, character, scrolls and other collectables, the player, interactive puzzles, the haunted house and other items that may need to be added.
+Character models for ghost NPC, character, scrolls and other collectables, the player, interactive puzzles, the haunted house and other items that may need to be added. Textures and other items that help with the aesthetics of the game such as lighting will be required
 ### Objects
-Also interactables and other scrolls and objects such as doors 
+Interactables such as scrolls and objects such as doors and the fellow NPC ghost as well as puzzle objects will all be required.
 
 ### Characters and Animations
 
@@ -172,7 +162,7 @@ Choose 3 relevant implications. Discuss how you will ensure these are addressed.
 I will address the social implication by ensuring that the language used in the game is not inappropriate for a social setting. The language used will also not offend people and their beliefs. Values and other viewpoints of the world will also not be attacked and I will ensure that this addressed correctly by having a variety of people from different backgrounds to play my game and survey them if they find the language anything else offensive such as art or visuals.
 
 ## Intellectual Property
-I will address the intellectual property implication by ensuring that the work I submit is my own, or if it is other people's work, I will make sure the work is not copyrighted. If I fail to meet this implication, the work could be classed as plagiarised  
+I will address the intellectual property implication by ensuring that the work I submit is my own, or if it is other people's work, I will make sure the work is not copyrighted and the original work is credited in the documentation. If I fail to meet this implication, the work could be classed as plagiarised.
 
 ## Cultural
-I will address the cultural property implication
+I will address the cultural property implication by ensuring that my game does not contain intentionally provocative content to certain cultures or minorities that may take offense to the game that I created. This can be anything from racist remarks, references to groups that cause harm to people and culturally insensitive humour. Failing this could result in offending people or a group of people that find the game insensitive.

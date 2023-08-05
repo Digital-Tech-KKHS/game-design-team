@@ -17,7 +17,6 @@ Involved in the trial
 ## Results
 > - Charley went to go finish the level and the enemy stopped at the front door and would not roam outside
 > - Charley went to go finish the level and the enemy continued to follow Charley out the door and would roam outside as well as chase him so it gave an element of challenge to the game.
-> - A bug was found when the navigation mesh would not bridge the gap between the outside and the inside of the asylum. This was fixed with a nav link proxy.
 
 ## Briefly describe the changes you have made based on this trial
-> - Like described above, the nav link proxy was put in place to bridge the gap between the two nav meshes and outside. This solved the issue and allowed the player to have the enemy chase them outside.
+> - Enemy was allowed to roam outside and chase the player when the exit to the asylum was opened. This adds element of challenge to the game and makes sure the player is aware that they need to close the door

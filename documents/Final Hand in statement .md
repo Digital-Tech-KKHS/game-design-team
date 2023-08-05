@@ -9,29 +9,20 @@
 
 **Arcade version:**
 
-**Aditional Libraries:**
-
-
+**Additional Libraries:**
 # Copyright information
 
 **Graphical Assets**
 
 | **Asset Name**  | **Created/Creator** |  **License** |
 | :-------: | :---: | :---: |
-| Add assets | here | like this |
-| Add assets | here | like this |
-| Add assets | here | like this |
-| Add assets | here | like this |
-
+| The Lady of the Asylum | Kelo | Creative Commons |
 
 **Sound Assets**
 
-| **Asset Name**  | **Created/Creator** |  **License** |
-| :-------: | :---: | :---: |
-| Add assets | here | like this |
-| Add assets | here | like this |
-| Add assets | here | like this |
-| Add assets | here | like this |
+| **Asset Name** | **Created/Creator** |                       **License**                       |
+|:--------------:|:-------------------:|:-------------------------------------------------------:|
+| Demonic Scream |       Pixaby        | [License](https://pixabay.com/service/license-summary/) |
 
 **Code**
 
@@ -39,11 +30,7 @@ Code created by myself. Inspired by and adapted from the following tutorials
 
 | **Tutorial Name** | **Link** |
 | :--------: | :---: |
-| example tutorial | [Example link](https://www.youtube.com/watch?v=ipy88sNOgQk&list=PL-NaYeCEwvWg9he3WAr8zGtLNiO8pPMWc)
-| example tutorial | [Example link](https://www.youtube.com/watch?v=ipy88sNOgQk&list=PL-NaYeCEwvWg9he3WAr8zGtLNiO8pPMWc)
-| example tutorial | [Example link](https://www.youtube.com/watch?v=ipy88sNOgQk&list=PL-NaYeCEwvWg9he3WAr8zGtLNiO8pPMWc)
-| example tutorial | [Example link](https://www.youtube.com/watch?v=ipy88sNOgQk&list=PL-NaYeCEwvWg9he3WAr8zGtLNiO8pPMWc)
-
+| How To Save And Load Options And Graphics Settings - Unreal Engine 4 Tutorial | [Example link](https://www.youtube.com/watch?v=4M2v2SYJDJk)
 
 **Final Testing**
 
@@ -57,8 +44,6 @@ Other than using tutorials and example code, all this work is my own. I understa
 
 > **Signed:**   
 > **Date:**  
-  
-
 # Handing in checklist
 
 Please ensure you have the following in your the final commit on the master branch.
